@@ -1,0 +1,10 @@
+//Madison Rutledge
+
+public class My Info
+{
+	public static void main(String[] args){
+		int age = 15;
+		int height_ft = 5.164042;
+		int height_in = 61.968504;
+	}
+}
